@@ -1,0 +1,97 @@
+html, body{
+	height: 100%;
+	margin: 0;
+}
+
+.header{
+	width: 100%;
+	height: 100px;
+
+}
+
+.navigation{
+	float: right;
+	height: 60px;
+	width: 301.6px;
+}
+
+
+
+ul.nav{
+	list-style: none;
+	font-family: sans-serif;
+	font-size: 12px;
+}
+
+ul.nav li{
+	float: left;
+	margin-right: 18px;
+	opacity: 0.8;
+
+}
+
+li.top{
+	margin-top: 10px;
+	
+}
+
+a{
+	color: #000;
+	text-decoration: none;
+}
+
+
+.redtwo{
+background-color: rgb(219, 68, 55);
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+box-sizing: border-box;
+color: rgb(255, 255, 255);
+cursor: pointer;
+font-family: arial,sans-serif;
+font-size: 12px;
+font-weight: 700;
+height: 20px;
+line-height: 20px;
+margin-bottom: 5px;
+margin-left: 5px;
+margin-right: 5px;
+margin-top: 5px;
+padding-bottom: 0px;
+padding-left: 2px;
+padding-right: 2px;
+padding-top: 0px;
+text-align: center;
+white-space: nowrap;
+width: 20px;
+}
+
+ul.nav li img {
+border-bottom-left-radius: 16px;
+border-bottom-right-radius: 16px;
+border-top-left-radius: 16px;
+border-top-right-radius: 16px;
+color: rgb(0, 0, 0);
+font-family: sans-serif;
+font-size: 12px;
+list-style-image: none;
+list-style-position: outside;
+list-style-type: none;
+opacity: 0.8;
+
+}
+
+
+.search-container {
+    width: 100%;
+    height: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.logo {
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
