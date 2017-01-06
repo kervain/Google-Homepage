@@ -95,3 +95,18 @@ opacity: 0.8;
     margin-top: 100px;
     margin-bottom: 30px;
 }
+
+#searchform{
+width: 600px;
+height: 44px;
+border: 1px solid #CCC;
+margin: 0 auto;
+box-shadow: 2px 2px 2px 2px #F2EFEF;
+}
+
+input{
+width: 500px;
+height: 30px;
+border: 0px;
+float: left;
+}
